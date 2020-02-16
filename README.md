@@ -1,12 +1,8 @@
-# gcp-nuxt-example
-
-> My mathematical Nuxt.js project
-
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ yarn install
+$ yarn
 
 # serve with hot reload at localhost:3000
 $ yarn dev
@@ -19,4 +15,7 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Deploy
+```
+yarn deploy
+```
